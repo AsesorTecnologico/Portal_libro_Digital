@@ -56,12 +56,12 @@ header {
     opacity: 0.9;
 }
 
-/* Selector de Grados */
-.main-selector {
+/* Selectores */
+.main-selector, .tomo-selector {
     background: white;
     border-radius: 1.5rem;
     padding: 1.5rem;
-    margin-bottom: 2rem;
+    margin-bottom: 1.5rem;
     box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
     border: 1px solid #e2e8f0;
 }
@@ -70,7 +70,7 @@ header {
     display: flex;
     align-items: center;
     gap: 0.5rem;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 600;
     color: #1e293b;
     margin-bottom: 1rem;
@@ -78,16 +78,16 @@ header {
 
 .selector-title i {
     color: #2a5298;
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
 
-.selector-buttons {
+.selector-buttons, .tomo-buttons {
     display: flex;
     flex-wrap: wrap;
     gap: 0.75rem;
 }
 
-.selector-btn {
+.selector-btn, .tomo-btn {
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -103,17 +103,17 @@ header {
     color: #334155;
 }
 
-.selector-btn i {
+.selector-btn i, .tomo-btn i {
     font-size: 1rem;
 }
 
-.selector-btn:hover {
+.selector-btn:hover, .tomo-btn:hover {
     background: #f1f5f9;
     border-color: #cbd5e1;
     transform: translateY(-1px);
 }
 
-.selector-btn.active {
+.selector-btn.active, .tomo-btn.active {
     background: linear-gradient(135deg, #1e3c72, #2a5298);
     color: white;
     border-color: transparent;
@@ -231,6 +231,21 @@ header {
     grid-column: 1 / -1;
 }
 
+.info-message {
+    text-align: center;
+    padding: 2rem;
+    background: #f8fafc;
+    border-radius: 1rem;
+    color: #64748b;
+    grid-column: 1 / -1;
+}
+
+.info-message i {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+    display: block;
+}
+
 /* Footer */
 footer {
     background: #0f172a;
@@ -293,7 +308,7 @@ footer {
         grid-template-columns: 1fr;
     }
     
-    .selector-btn {
+    .selector-btn, .tomo-btn {
         padding: 0.5rem 1rem;
         font-size: 0.85rem;
     }
