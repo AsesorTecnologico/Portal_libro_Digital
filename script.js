@@ -92,6 +92,7 @@ const driveLinks = {
             20: "https://drive.google.com/file/d/1xA9wXF4eSNbuWqF8ntPdMjVpMlm4vyis/view?usp=drive_link" // Trigonometría
         }
     },
+    // ========== 3ERO SECUNDARIA ==========
     "3ro": {
         "tomo-i": {
             1: "https://drive.google.com/file/d/1xUNN6dQ0JG9Jt2W9F5MgxUPFGxorGGTV/view?usp=drive_link",//Economía
@@ -134,6 +135,7 @@ const driveLinks = {
             20: "https://drive.google.com/file/d/1KRsvnMVDIZk_kthZlCH27K_7hX315BUl/view?usp=drive_link" // Trigonometría
         }
     },
+    // ========== 4TO SECUNDARIA ==========
     "4to": {
         "tomo-i": {
             1: "https://drive.google.com/file/d/1LjIQVa5VHFscEna5Eb3NAyHZ7FLHQyG_/view?usp=drive_link",//Economía
@@ -176,6 +178,7 @@ const driveLinks = {
             20: "https://drive.google.com/file/d/1Dtk2yzGbj_5cl2ISm0hl7hyuU8CkY9g2/view?usp=drive_link" // Trigonometría
         }
     },
+    // ========== 5TO SECUNDARIA ==========
     "5to": {
         "tomo-i": {
             1: "https://drive.google.com/file/d/1SqAJXgriF3Hz3BvZ8Vczlj0RHqy5ZZCa/view?usp=drive_link",//Economía
@@ -294,6 +297,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1FbqmWwGNJ7NTltSa8MFw2mUjTy5Qb0jL/view?usp=drive_link", // Geometría
             19: "https://drive.google.com/file/d/1bLlyh4SdKJEcM4Z36m03uamrrtRR5VcD/view?usp=drive_link", // Razonamiento Matemático
             20: "https://drive.google.com/file/d/1QlkEzUuTFrucj0l_jeLwEaeXtLReRM9c/view?usp=drive_link" // Trigonometría
+        },
+        "tomo-iii": {
+            1: "https://drive.google.com/file/d/1_BGRDTQ4j_vLi3bQsb32QVTmvLxyUfO6/view?usp=drive_link",//Economía
+            2: "https://drive.google.com/file/d/1NImQStgOwNeT5Psu1oiBLpq375Shjf1E/view?usp=drive_link", // Geografía
+            3: "https://drive.google.com/file/d/104chFf0RrnDgy0vxoKvlJssbdw0Fsnwa/view?usp=drive_link", // Historia del Perú
+            4: "https://drive.google.com/file/d/1QW1KZZ3di7F72a4obp_OfPeIVUTT9ayK/view?usp=drive_link", // Historia Universal
+            5: "https://drive.google.com/file/d/1MMunmgOkabttradV0GbSvSS_t0CIi1cw/view?usp=drive_link", // psicologia
+            8: "https://drive.google.com/file/d/1CaF_0KpC8QmSQPz5cn1fFedHMX5ODGhi/view?usp=drive_link", // Lenguaje
+            9: "https://drive.google.com/file/d/15Zs5-wq2bYmh-rS4gJHnk4Q1Ab-UyZTD/view?usp=drive_link", // Literatura
+            10: "https://drive.google.com/file/d/1T6Nd7oT5E6FXboGeW3FN0sRD1LO-cVmS/view?usp=drive_link", // Razonamiento Verbal 1
+            13: "https://drive.google.com/file/d/1MJAk3sDZmcnmSCKzn6QSNeL44sI1pbyH/view?usp=drive_link", // Biología
+            14: "https://drive.google.com/file/d/1vNRNHHLvGDcePTOKzbuy7k0Tp1rcC1Uk/view?usp=drive_link", // Física
+            15: "https://drive.google.com/file/d/1g6CA3SqpWYZDhmr-l45v7ui2VfgVi400/view?usp=drive_link", // Química
+            16: "https://drive.google.com/file/d/1fr3tYEk7h-1Z9WYFAhRykTPrmUx8c6My/view?usp=drive_link", // Álgebra
+            17: "https://drive.google.com/file/d/1aPF1AjLA7nwu5LeRmA4ZeUNT1K3swkNA/view?usp=drive_link", // Aritmética
+            18: "https://drive.google.com/file/d/1h5y4bhMxTFIfIqVh7akZetD26LasCgJm/view?usp=drive_link", // Geometría
+            19: "https://drive.google.com/file/d/11jSr4AE10v6QziBeuCZYTzKD5sLI6z-c/view?usp=drive_link", // Razonamiento Matemático
+            20: "https://drive.google.com/file/d/1UsDgiSQ62ZI3JsEj3EEnIALDv744MUqq/view?usp=drive_link" // Trigonometría
         }
     },
     "5touni": {
@@ -365,7 +386,7 @@ const grades = [
 const tomos = [
     { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" }
-    //{ id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
+    { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
     //{ id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
     //{ id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
     //{ id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" },
