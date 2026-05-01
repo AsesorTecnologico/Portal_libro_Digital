@@ -29,7 +29,7 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/16hmUNs6z1_2Ad-R0bpzZMCLuRzsQy_8y/view?usp=drive_link", // Aritmética
             18: "https://drive.google.com/file/d/12J-bN9ExwAP6iolPcluvOMJ8HLQuR1nD/view?usp=drive_link", // Geometría
             19: "https://drive.google.com/file/d/1vu5dTLYYh9JRIXEPkIt3wYSbuM2-zUGC/view?usp=drive_link", // Razonamiento Matemático
-            20: "https://drive.google.com/file/d/1Oiep4gpdoM7L3N2IM_sk2DnxoNlcSTBd/view?usp=drive_link", // Trigonometría
+            20: "https://drive.google.com/file/d/1Oiep4gpdoM7L3N2IM_sk2DnxoNlcSTBd/view?usp=drive_link" // Trigonometría
         },
         "tomo-ii": {
             2: "https://drive.google.com/file/d/1Gben4FjA_uavS9zulDLrAClXNOrvUP9y/view?usp=drive_link", // Geografía
@@ -48,7 +48,7 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1L-U6yc1zLjWA4f6hupL2M45SmQhNsk5C/view?usp=drive_link", // Aritmética
             18: "https://drive.google.com/file/d/1WCzYPvjEBhoDPZbxDu3NfWBSRHw-Sjt7/view?usp=drive_link", // Geometría
             19: "https://drive.google.com/file/d/1RwgtElvlo4vzyWGMtWOvuWy5Q5QEa9_W/view?usp=drive_link", // Razonamiento Matemático
-            20: "https://drive.google.com/file/d/1Dtk2yzGbj_5cl2ISm0hl7hyuU8CkY9g2/view?usp=drive_link", // Trigonometría
+            20: "https://drive.google.com/file/d/1Dtk2yzGbj_5cl2ISm0hl7hyuU8CkY9g2/view?usp=drive_link" // Trigonometría
         }
     },
     // ========== 2DO SECUNDARIA ==========
