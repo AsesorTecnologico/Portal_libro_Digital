@@ -355,6 +355,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1_63PuCc-fr08RPLobANsqqSIDq7NHE67/view?usp=drive_link", // Geometría
             19: "https://drive.google.com/file/d/1YCEtw9okGDGR8SNKJSfPXUdOhd5G1NhI/view?usp=drive_link", // Razonamiento Matemático
             20: "https://drive.google.com/file/d/1MynzrdbdPV3anyM9EQPbHx1i6YztDz7K/view?usp=drive_link" // Trigonometría
+        },
+        "tomo-iii": {
+            1: "https://drive.google.com/file/d/1R5BjCsntsjXue2hFWC_yLkUblH0keqya/view?usp=drive_link",//Economía
+            2: "https://drive.google.com/file/d/1-DF6wr6uCrTYsWhAT0D5lDmvHz8QpMGR/view?usp=drive_link", // Geografía
+            3: "https://drive.google.com/file/d/1X-EZfB1wRJ-4lY4LlWH9I1_ASvCxk0Jt/view?usp=drive_link", // Historia del Perú
+            4: "https://drive.google.com/file/d/1uyUG9M-1Keatc5099TIq3XXHAU00QdEM/view?usp=drive_link", // Historia Universal
+            5: "https://drive.google.com/file/d/1JwKQOSWeWa2DrPG_PjuM0GJNRyOO3UdX/view?usp=drive_link", // psicologia
+            8: "https://drive.google.com/file/d/1xXQS9fwEjXh3Y756YeibqW5Yo0eCWnCh/view?usp=drive_link", // Lenguaje
+            9: "https://drive.google.com/file/d/1IGGPKQwP02ZsWe6h73DFySnNzLQJv9pA/view?usp=drive_link", // Literatura
+            10: "https://drive.google.com/file/d/1fs68iF0npyOEUerGjor3tXpJqqOyuT9T/view?usp=drive_link", // Razonamiento Verbal 1
+            13: "https://drive.google.com/file/d/14JnsBogaoI8dZwF0oTxs7eeYY1lqVJiY/view?usp=drive_link", // Biología
+            14: "https://drive.google.com/file/d/1TlHM9DrMAehvzrxMUz9EU2VARnn0Jvd6/view?usp=drive_link", // Física
+            15: "https://drive.google.com/file/d/1japfMIITMcfgTpuJEfaeec4Mb4CXEcNt/view?usp=drive_link", // Química
+            16: "https://drive.google.com/file/d/19QdtQksWftlGC6_x3D9pjOVoB3MGl7dG/view?usp=drive_link", // Álgebra
+            17: "https://drive.google.com/file/d/1RKJBxCkwQmv6KHAD-2cwqFkUl1A-VHB6/view?usp=drive_link", // Aritmética
+            18: "https://drive.google.com/file/d/1AL7WA89C5BUZRcnyol8ckSbVwJKA12zB/view?usp=drive_link", // Geometría
+            19: "https://drive.google.com/file/d/1ZlkL-XJ2RIZ6m1vAzfQfB28BSXR8eV6P/view?usp=drive_link", // Razonamiento Matemático
+            20: "https://drive.google.com/file/d/1J-iung1Hj5y8qyN3guNV6ZmlN8JibP8r/view?usp=drive_link" // Trigonometría
         }
     },
     "5tosm": {
