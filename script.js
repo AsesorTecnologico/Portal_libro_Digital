@@ -430,6 +430,14 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1nVmRob5uGZmb3SQv3c4NY-Zyrsa-IbuR/view?usp=drive_link",
             18: "https://drive.google.com/file/d/1Rw3rC1QkzEQ7YvPFf3lMgwCr0ycn7BUq/view?usp=drive_link",
             20: "https://drive.google.com/file/d/1TqJ8WeYRaKR2lC7PrhlrptaX4DuNjDl0/view?usp=drive_link"
+        },
+        "tomo-iii": {
+            14: "https://drive.google.com/file/d/1K8Hg9CiR8RqxUNnYGaonBUBOyjIAP8jN/view?usp=drive_link",
+            15: "https://drive.google.com/file/d/1kxGpyOkyJpVWhpXjRTaW6rp-zaiIWKtA/view?usp=drive_link",
+            16: "https://drive.google.com/file/d/1UVz8vPuJvUp-51NqsSwjCnOb_Tset5qy/view?usp=drive_link",
+            17: "https://drive.google.com/file/d/1y4Bfwfx9EWTw1NhiAn_XPAlbFkC-LBHM/view?usp=drive_link",
+            18: "https://drive.google.com/file/d/1Yj7Lf1uJ7VNU7m6WxgLzcPmAxGkTZHpq/view?usp=drive_link",
+            20: "https://drive.google.com/file/d/1Pom1m08FlJA6EZ9KEIpaMJGJlxn3YwZC/view?usp=drive_link"
         }
     }
 };
