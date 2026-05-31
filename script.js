@@ -552,17 +552,42 @@ function generateGradeButtons() {
 // Generar botones de tomos
 function generateTomoButtons() {
     tomoButtonsContainer.innerHTML = '';
+
     if (!currentGrade) return;
-    
-    tomos.forEach(tomo => {
+
+    let tomosDisponibles = tomos;
+
+    if (currentGrade === "5tosm" || currentGrade === "5touni") {
+        tomosDisponibles = [
+            { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
+            { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
+            { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
+            { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" }
+        ];
+    } else {
+        tomosDisponibles = tomos.filter(t =>
+            driveLinks[currentGrade][t.id]
+        );
+    }
+
+    tomosDisponibles.forEach(tomo => {
         const btn = document.createElement('button');
-        btn.className = `tomo-btn ${currentTomo === tomo.id ? 'active' : ''}`;
-        btn.innerHTML = `<i class="${tomo.icon}"></i><span>${tomo.name}</span>`;
-        btn.addEventListener('click', () => {
+
+        btn.className = `tomo-btn ${
+            currentTomo === tomo.id ? 'active' : ''
+        }`;
+
+        btn.innerHTML = `
+            <i class="${tomo.icon}"></i>
+            <span>${tomo.name}</span>
+        `;
+
+        btn.onclick = () => {
             currentTomo = tomo.id;
             generateTomoButtons();
             renderCourses();
-        });
+        };
+
         tomoButtonsContainer.appendChild(btn);
     });
 }
