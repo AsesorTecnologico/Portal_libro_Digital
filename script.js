@@ -516,7 +516,8 @@ const grades = [
 const tomos = [
     { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
-    { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" }
+    { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
+    { id: "tomo-iV", name: "Tomo IV", icon: "fas fa-book" }
 ];
 
 // Estado actual
