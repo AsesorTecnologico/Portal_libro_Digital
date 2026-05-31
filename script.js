@@ -411,6 +411,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1h5y4bhMxTFIfIqVh7akZetD26LasCgJm/view?usp=drive_link",
             19: "https://drive.google.com/file/d/11jSr4AE10v6QziBeuCZYTzKD5sLI6z-c/view?usp=drive_link",
             20: "https://drive.google.com/file/d/1UsDgiSQ62ZI3JsEj3EEnIALDv744MUqq/view?usp=drive_link"
+        },
+        "tomo-iv": {
+            1: "https://drive.google.com/file/d/1qgwE7CJqQBCkY-vbe6A6AmJ-ZtiGZ9Sr/view?usp=drive_link",//Economia
+            2: "https://drive.google.com/file/d/1W1qW8tSFBWFA9GpZB8ZuLWbmQcm9G6fJ/view?usp=drive_link",//geografia
+            3: "https://drive.google.com/file/d/1_Z89KRvQHNb-lNeiwhziKBVgYpMEDJNz/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1Q2OZ9GFxBfstETYdjIz-XANlIKmZCuUJ/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1euOt2SGZ8KEw8RXXZ8fXjYLOEsol9-TF/view?usp=drive_link",//psicologia
+            8: "https://drive.google.com/file/d/1k0Ph7Nwbex_z58nRgqHPwCcym19EwzHY/view?usp=drive_link",//lenguaje
+            9: "https://drive.google.com/file/d/1rXF05y7cZRE5Ob1LCmJYRo-ZWCbTts5v/view?usp=drive_link",//literatura
+            10: "https://drive.google.com/file/d/1IVEU137DpEMeKd4c09Fya8MhS2FvGfIq/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1xIN5gVtp8rHp4bv77ehv23RId_NqINYf/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1BmyzhZWiJM8okAGR9u_9kl_tS8kRbA_A/view?usp=drive_link",//fisica
+            15: "https://drive.google.com/file/d/1SlO-eq2pU1DUcc2FB5_yeWAslnYFupSI/view?usp=drive_link",//quimica
+            16: "https://drive.google.com/file/d/1itGsQLR6_vrrrz-fmIZ6PsQakbbKotgu/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1p1RZE9zw0zdrnifMY-ubVmtxNCcBZ36u/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1CQ6eSgQIlE4QBtMRbxJ5j3E95QUYEoLf/view?usp=drive_link",//geom
+            19: "https://drive.google.com/file/d/1N1Ym0UuQjRxkjVMGOTDBH7gUUntqofR3/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1PsM1GqG4lvvxUWOUiDj4JlZxUg_cUpqJ/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOUNI (5to UNI) ==========
@@ -438,6 +456,14 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1y4Bfwfx9EWTw1NhiAn_XPAlbFkC-LBHM/view?usp=drive_link",
             18: "https://drive.google.com/file/d/1Yj7Lf1uJ7VNU7m6WxgLzcPmAxGkTZHpq/view?usp=drive_link",
             20: "https://drive.google.com/file/d/1Pom1m08FlJA6EZ9KEIpaMJGJlxn3YwZC/view?usp=drive_link"
+        },
+        "tomo-iV": {
+            14: "https://drive.google.com/file/d/1Wp5rYT8CON80X4rXqZN6h8RfsRMskVGx/view?usp=drive_link",//FIS
+            15: "https://drive.google.com/file/d/1Pi-zs3gffaea3tdsSJ5iKa4jG-yb6cgc/view?usp=drive_link",//QUI
+            16: "https://drive.google.com/file/d/1FQ0fTrK-DkyuV7UNu9OeNVFSg4UHxYHf/view?usp=drive_link",//ALG
+            17: "https://drive.google.com/file/d/1a7RsZLjKPavUEagdH2G3UxwIAogZoURu/view?usp=drive_link",//ARIT
+            18: "https://drive.google.com/file/d/1fMkRKGtF91ew_QNJ00Evyj_gbIKFtbRU/view?usp=drive_link",//GMT
+            20: "https://drive.google.com/file/d/1XJWKsOIIEmfPpWxlSjAPHiy_66Ms4sxe/view?usp=drive_link"//TRIG
         }
     }
 };
