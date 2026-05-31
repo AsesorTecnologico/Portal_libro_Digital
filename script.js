@@ -457,7 +457,7 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1Yj7Lf1uJ7VNU7m6WxgLzcPmAxGkTZHpq/view?usp=drive_link",
             20: "https://drive.google.com/file/d/1Pom1m08FlJA6EZ9KEIpaMJGJlxn3YwZC/view?usp=drive_link"
         },
-        "tomo-iV": {
+        "tomo-iv": {
             14: "https://drive.google.com/file/d/1Wp5rYT8CON80X4rXqZN6h8RfsRMskVGx/view?usp=drive_link",//FIS
             15: "https://drive.google.com/file/d/1Pi-zs3gffaea3tdsSJ5iKa4jG-yb6cgc/view?usp=drive_link",//QUI
             16: "https://drive.google.com/file/d/1FQ0fTrK-DkyuV7UNu9OeNVFSg4UHxYHf/view?usp=drive_link",//ALG
@@ -517,7 +517,7 @@ const tomos = [
     { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
     { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
-    { id: "tomo-iV", name: "Tomo IV", icon: "fas fa-book" }
+    { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" }
 ];
 
 // Estado actual
