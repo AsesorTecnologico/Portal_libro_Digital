@@ -93,6 +93,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1CtTABGD7SwwIYH2RTm90owSiIWY-vcVk/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1HUVJe0BtEydEwLIjm3Afv1aKzX7r4vwU/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/19W6x89Jkzac2ewdpe61gX4MLwaaUJH5v/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            2: "https://drive.google.com/file/d/1WzTFAwyVWG88YQYpozsD_tbwKXQtVqlB/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1br_gLcSEpMLL7KLCU8HfjIbDqz2wF2AG/view?usp=drive_link",//hp
+            6: "https://drive.google.com/file/d/1J6dQOte7qHrd5g1RV1O5r6SAkfaP3Tdw/view?usp=drive_link",//valores
+            7: "https://drive.google.com/file/d/1MPwNGsjOgv16NZpGJz4NduCfCqEzTpnG/view?usp=drive_link",//fmf
+            8: "https://drive.google.com/file/d/18HVjePxrXRudMdRBxYG7SXu5sDk82kf5/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1oLqgIuACqO_fsqQVH308B172PHBTGpxr/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1ElVQ3lHXxFs1WCmV55M3-2fnAFyja5v1/view?usp=drive_link",//rv
+            11: "https://drive.google.com/file/d/1TJXFiBlynYzUHKMqBhGtRCaFTZc2OMWb/view?usp=drive_link",//teatro
+            13: "https://drive.google.com/file/d/1BmGgA12Jig_5mH0UQaUoTeMK1CzjYWJG/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1Q4ZykiEwZHtpVVofiKldYUKl6DKY6xLl/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/1rCITJrgazGSqnAsyZH_6Yt0N44Fut2MG/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/1QcrARw-jUY9Mo2FcQCPKjSU_WbjuYnT4/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1d-npbCQJQBJTlzmKLgdvwNUb6O3XisR4/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1U7XxvebzxZNEZAMS8GElnIk6cKXNh46r/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1uMmmAwYK8v9LhJ8PRdk6qBCq0bdvZ2r9/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1Yqre0zX4bx5uYrxNGDBFmvjCM7t4ITcD/view?usp=drive_link"//trig
         }
     },
     // ========== 2DO SECUNDARIA ==========
@@ -186,6 +204,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/17TXdLUZir-6-3lnTlzx5LSyeVaUf3aG4/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1-TSnBDXvsirJZrPBpcGeMSBZ46QSOmZI/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1f0pAb2it17HtpNOnUIKS8I5UD-EtdNgE/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            2: "https://drive.google.com/file/d/1rDKD9Pbas2bhmV49cqXIE9pl742Clhcr/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1Fq1i1zvTLwqJRzXGC0X_Ra9dlzMxM65O/view?usp=drive_link",//hp
+            6: "https://drive.google.com/file/d/1Ba_TDilztF6AmZH4pPfoFNRH2fFinoIu/view?usp=drive_link",//valores
+            7: "https://drive.google.com/file/d/1y5pXQt10tqp6_DKbeuUFthMd75gAH3uk/view?usp=drive_link",//fmf
+            8: "https://drive.google.com/file/d/1LI8_IUdS3r9AM9wHjyWQosU__WQf7F3R/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1ye6euuogfpFy3HvDuVhl6dVWLsCFRsie/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/129QJ-HXkJwiwQzUnWYs-6emdqDESSiAf/view?usp=drive_link",//rv
+            11: "https://drive.google.com/file/d/1lZU72TEM8K7TNj8TjRDM3BpI5Sxe_ZKN/view?usp=drive_link",//teatro
+            13: "https://drive.google.com/file/d/1cY2SZtU1iTSBxs4nuJGdlmPF0hxlHTV4/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1nDYTy-kkPH1Y1nC-SMk3uDXqQErnkL5L/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/1yZkUkFGvDlDbXOAPpy41zqta_oIBr1hN/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/1SicvTQHm09xGErUqELTNSoSEx2CGIJ-j/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1DAKtOgwEUKSUks5VsHE72HXQ2b-kZWaE/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1VfdiG9i9rYgHpp-Kl6wQkwzdXzMtHovK/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/16TcYra9A-GX379Jp_cjFQvpXqdq84bQ2/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1U1ro3QtZaKUoc-FQPXdhMNOAAxx-RoNk/view?usp=drive_link"//trig
         }
     },
     // ========== 3RO SECUNDARIA ==========
@@ -284,6 +320,25 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1JgQbNvmNaGF1OyA2AtyTyj5HBAKXmv6e/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1vaxA4oJ7lNr4WdgON1S16OXJYALZ-XNh/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/11Ymy_AByXGH5MVlodmXQ9cmNcVokQWK1/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            1: "https://drive.google.com/file/d/1pOU2Z8UecURQHC4hpiPnnEVrwR3ydPEn/view?usp=drive_link",//eco
+            2: "https://drive.google.com/file/d/1GhaJ0JPSYYiKqj0eoTYzjhX7DpcHqdkd/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1JufGMcL8OVVuZcg0Ix6FEKICoSP9fdux/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1uWnw_ZWI2kbOSvuc-iy9vrEQK2pZ-EPN/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1j8GJA2jUiCCFvSEHIyM61CQGA7YZaH75/view?usp=drive_link",//psi    
+            7: "https://drive.google.com/file/d/1M2EEz6Yenjhlh9EsYrOx4IXf9dnnS3Dt/view?usp=drive_link",//fmf
+            8: "https://drive.google.com/file/d/1Wbc05BCidY2iWr2ibCsUcgKuxPF1RPNj/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1ikr1Z7EZj0QHgbuJE5JAPIZjMQVh0qj_/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1UhnyErVC2Ra8pPwsSkCQyaF_S1O8I0IY/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1ku9Q4N-WBFRn9PtHNFTkPX7urxNLG03g/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/10wSiinGJmjHZBYPbL3ITLz5kPBhllM2U/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/1H4_bnrRfrGyTi0K6m5L5uuERSwU_bHdG/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/1jvp3ZRB0amjkT_icqOfiBm39YtByDfLp/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1AZ0TJMKIs3ym9zt7cBNRJ6L0sLE_SdNv/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1N2Ii5l5nzFUdgcKy-r0pK1OaF2S5EbHw/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1UFspaXy31mU0X31xsQrxeRqQ3Yfyzz-a/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1wlwVD9CDIdfMGCz-Er7BuSOzeY4KyCK9/view?usp=drive_link"//trig
         }
     },
     // ========== 4TO SECUNDARIA ==========
@@ -382,6 +437,25 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1U5O7Z9ZxxxJnYovhaKFC49pYjZm4mtVl/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1jIa4x2_VyjuPgNOKjlf1QtF31oDWPgdx/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1Omfn5ac4JA4ckpRH2IKfnLWqo43VGxHL/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            1: "https://drive.google.com/file/d/1NL4EAznZIdByl7HkqA_ah0ZHwnBa893U/view?usp=drive_link",//eco
+            2: "https://drive.google.com/file/d/1BB4LtrmzTFVHOIfQkSGFT-4N3b4hDAJR/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1LVIuuByLyt_LWCOJ-1XapIi-MP5WR47f/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1dvchBknRod4SPDwjbPKgiqW1EE19ordY/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1xYnywOq8rM3gCvEtwH437iwYaqaP_UO7/view?usp=drive_link",//psi    
+            7: "https://drive.google.com/file/d/1vIGWy147WcxMdMwdPM6LYRMuapzpljBH/view?usp=drive_link",//fmf
+            8: "https://drive.google.com/file/d/1ea04eHe07ayGn7_ic_HLa6ELhSb2Hqiq/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1H9YPXtNSDl8M5odfMGaFCy5-zCMmeL4C/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1oApWCcbNxz9T1MXnfyQQIWDcLthiJW_T/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1HyGMTusefBeksMdxq2ffMScs8vqJBRSX/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1bRlTBq-RGHJQtG4Xpny6-r7t6Py7SCTv/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/10N5-Zgb0FXzkd9dWBXJg-ATJJe2JpbbH/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/11Jaob6lkDJuzEfPTVat4GCmLbGbh6lxG/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1g3ivilIezGEMP5pKyViIOaSHLyCGSVvF/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1uNyV5arVosBwPj964dfODyaeGKDnywjn/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1QOm_7aKXXfAmd5xOpfUiBecOu22OtWWJ/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1CZbc40xQuPHjDxdZyeabAloA4FV-EQMZ/view?usp=drive_link"//trig
         }
     },
     // ========== 5TO SECUNDARIA ==========
@@ -485,6 +559,25 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1WvT2oZQn_nhpk1J11P1ITFGqTEEeahET/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1lJD-IfV0cFU6QISs76fkHzKjEkHfNHb5/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1NSj3wvmLq7bUGfG3apHGPHfm6VwzBZZn/view?usp=drive_link"//trig
+        },
+        "tomo-vi": {
+            1: "https://drive.google.com/file/d/1SMikkQAHmS-XXmfrhGv_aIUX6_T5r7qL/view?usp=drive_link",//eco
+            2: "https://drive.google.com/file/d/17arFgBnATdpK1xhIkWKMQejy1B93AYHw/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1G6eZQOIPWupIqiKSU7P9DocrBwUia4TN/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1Hryln5u3cI3Hd2OuU8Y_04RrN7yTuT_U/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1Ubwvws2v-eiiZVX5zG_g3FCmo1srwbFr/view?usp=drive_link",//psi    
+            7: "https://drive.google.com/file/d/1ey1RZupeoppBVEIypjYnngd4T3K7UuJN/view?usp=drive_link",//fmf
+            8: "https://drive.google.com/file/d/1WlFjpIaL4sRaGH6cKmpDdEr_VQF0GSrS/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/1ZO9KLN1Na__CCpEfAzUne21W2yG05MnG/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1yD6nTACIoe4KGVqFedJdGbN_WDxUNUsk/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/1ontdr8E_qJC8ibg4xpTuYpouFldZcFAZ/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1roAuhzpaInitx_UrsAnVSHtzu1A-lfp8/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/16gqOgncixu38fRrED2lytgCfq8xuYMTB/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/1IbKPcdACU8QFwg1FmYK3sceRpqemLOa3/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/12AGdTLJSa7j8Isw9Jt_uBly9ikjJHfJ8/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1Z5RGHbCQZVpyeklmEqoh_Q7Asxvi1heE/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1j7W1WG0uPoAPPr8Zc2u61nfVS7dhunCB/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1aD6kWW7Y8-ncPELXCAMAy8h_vxycFRIX/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOPRE (5to Pre) ==========
@@ -732,6 +825,14 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1zUdb_obbVrE3yiDyMymXiAlnxPCCkTJE/view?usp=drive_link",//ARIT
             18: "https://drive.google.com/file/d/1ncZdXg0rM4Af0SzjPbPLYdazsmCkJVar/view?usp=drive_link",//GMT
             20: "https://drive.google.com/file/d/1nfomxLTcAYs7swF2WaY-bt8SoJ4TLyui/view?usp=drive_link"//TRIG
+        },
+        "tomo-vi": {
+            14: "https://drive.google.com/file/d/1HgxWTmEo9lTf2KlmMDsu37nJ5Q3jey88/view?usp=drive_link",//FIS
+            15: "https://drive.google.com/file/d/1rEO_YauzcN_kq1IgIE_uwjI_vtaguJNq/view?usp=drive_link",//QUI
+            16: "https://drive.google.com/file/d/1L-52f-yvaM4g26DygVRrB7Y-hoV3I5pm/view?usp=drive_link",//ALG
+            17: "https://drive.google.com/file/d/1zUdb_obbVrE3yiDyMymXiAlnxPCCkTJE/view?usp=drive_link",//ARIT
+            18: "https://drive.google.com/file/d/1ClIozcjzNMtkpekaON5ycEiQm6C3xu7P/view?usp=drive_link",//GMT
+            20: "https://drive.google.com/file/d/1b6k3dr3U68FR2aYW0_ZmYlyYMP2kmUaA/view?usp=drive_link"//TRIG
         }
     }
 };
