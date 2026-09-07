@@ -847,7 +847,7 @@ const driveLinks = {
         "tomo-vi": {
             14: "https://drive.google.com/file/d/1HgxWTmEo9lTf2KlmMDsu37nJ5Q3jey88/view?usp=drive_link",//FIS
             15: "https://drive.google.com/file/d/1rEO_YauzcN_kq1IgIE_uwjI_vtaguJNq/view?usp=drive_link",//QUI
-            16: "https://drive.google.com/file/d/1L-52f-yvaM4g26DygVRrB7Y-hoV3I5pm/view?usp=drive_link",//ALG
+            16: "https://drive.google.com/file/d/1BghpMqaNl_q7iJ5RA0MJVoeAq1Xiqh5v/view?usp=drive_link",//ALG
             17: "https://drive.google.com/file/d/1zUdb_obbVrE3yiDyMymXiAlnxPCCkTJE/view?usp=drive_link",//ARIT
             18: "https://drive.google.com/file/d/1ClIozcjzNMtkpekaON5ycEiQm6C3xu7P/view?usp=drive_link",//GMT
             20: "https://drive.google.com/file/d/1b6k3dr3U68FR2aYW0_ZmYlyYMP2kmUaA/view?usp=drive_link"//TRIG
