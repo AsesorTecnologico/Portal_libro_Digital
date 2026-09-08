@@ -95,7 +95,7 @@ const driveLinks = {
             20: "https://drive.google.com/file/d/19W6x89Jkzac2ewdpe61gX4MLwaaUJH5v/view?usp=drive_link"//trig
         },
         "tomo-vi": {
-            2: "https://drive.google.com/file/d/1WzTFAwyVWG88YQYpozsD_tbwKXQtVqlB/view?usp=drive_link",//geo
+            2: "https://drive.google.com/file/d/1SemU23CyAonJ8xMkE-WJY1sk5aYEcKUy/view?usp=drive_link",//geo
             3: "https://drive.google.com/file/d/1br_gLcSEpMLL7KLCU8HfjIbDqz2wF2AG/view?usp=drive_link",//hp
             6: "https://drive.google.com/file/d/1J6dQOte7qHrd5g1RV1O5r6SAkfaP3Tdw/view?usp=drive_link",//valores
             7: "https://drive.google.com/file/d/1MPwNGsjOgv16NZpGJz4NduCfCqEzTpnG/view?usp=drive_link",//fmf
@@ -206,7 +206,7 @@ const driveLinks = {
             20: "https://drive.google.com/file/d/1f0pAb2it17HtpNOnUIKS8I5UD-EtdNgE/view?usp=drive_link"//trig
         },
         "tomo-vi": {
-            2: "https://drive.google.com/file/d/1rDKD9Pbas2bhmV49cqXIE9pl742Clhcr/view?usp=drive_link",//geo
+            2: "https://drive.google.com/file/d/1YQkq2HVEZHGN0w-6gjOooufacjS3yVLM/view?usp=drive_link",//geo
             3: "https://drive.google.com/file/d/1Fq1i1zvTLwqJRzXGC0X_Ra9dlzMxM65O/view?usp=drive_link",//hp
             6: "https://drive.google.com/file/d/1Ba_TDilztF6AmZH4pPfoFNRH2fFinoIu/view?usp=drive_link",//valores
             7: "https://drive.google.com/file/d/1y5pXQt10tqp6_DKbeuUFthMd75gAH3uk/view?usp=drive_link",//fmf
