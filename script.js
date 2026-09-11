@@ -900,13 +900,19 @@ const grades = [
     { id: "5touni", name: "5to UNI", icon: "fas fa-star" }
 ];
 
+// ========== TOMOS ACTUALIZADOS CON NUEVOS TOMOS E INTENSIVOS ==========
 const tomos = [
     { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
     { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
     { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
     { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
     { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
-    { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" }
+    { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" },
+    { id: "tomo-vii", name: "Tomo VII", icon: "fas fa-book" },
+    { id: "tomo-viii", name: "Tomo VIII", icon: "fas fa-book" },
+    { id: "intensivo-i", name: "Intensivo I", icon: "fas fa-fire" },
+    { id: "intensivo-ii", name: "Intensivo II", icon: "fas fa-fire" },
+    { id: "intensivo-iii", name: "Intensivo III", icon: "fas fa-fire" }
 ];
 
 // Estado actual
@@ -944,24 +950,8 @@ function generateTomoButtons() {
 
     if (!currentGrade) return;
 
-    let tomosDisponibles = tomos;
-
-    if (currentGrade === "5tosm" || currentGrade === "5touni") {
-        tomosDisponibles = [
-            { id: "tomo-i", name: "Tomo I", icon: "fas fa-book" },
-            { id: "tomo-ii", name: "Tomo II", icon: "fas fa-book" },
-            { id: "tomo-iii", name: "Tomo III", icon: "fas fa-book" },
-            { id: "tomo-iv", name: "Tomo IV", icon: "fas fa-book" },
-            { id: "tomo-v", name: "Tomo V", icon: "fas fa-book" },
-            { id: "tomo-vi", name: "Tomo VI", icon: "fas fa-book" }
-        ];
-    } else {
-        tomosDisponibles = tomos.filter(t =>
-            driveLinks[currentGrade][t.id]
-        );
-    }
-
-    tomosDisponibles.forEach(tomo => {
+    // Mostrar todos los tomos e intensivos disponibles en la lista general
+    tomos.forEach(tomo => {
         const btn = document.createElement('button');
 
         btn.className = `tomo-btn ${
