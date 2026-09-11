@@ -323,7 +323,7 @@ const driveLinks = {
         },
         "tomo-vi": {
             1: "https://drive.google.com/file/d/1pOU2Z8UecURQHC4hpiPnnEVrwR3ydPEn/view?usp=drive_link",//eco
-            2: "https://drive.google.com/file/d/1GhaJ0JPSYYiKqj0eoTYzjhX7DpcHqdkd/view?usp=drive_link",//geo
+            2: "https://drive.google.com/file/d/1d3epOjgqMWPGNm31mEDSH9oLL-n9MFYk/view?usp=drive_link",//geo
             3: "https://drive.google.com/file/d/1JufGMcL8OVVuZcg0Ix6FEKICoSP9fdux/view?usp=drive_link",//hp
             4: "https://drive.google.com/file/d/1uWnw_ZWI2kbOSvuc-iy9vrEQK2pZ-EPN/view?usp=drive_link",//hu
             5: "https://drive.google.com/file/d/1j8GJA2jUiCCFvSEHIyM61CQGA7YZaH75/view?usp=drive_link",//psi    
@@ -440,7 +440,7 @@ const driveLinks = {
         },
         "tomo-vi": {
             1: "https://drive.google.com/file/d/1NL4EAznZIdByl7HkqA_ah0ZHwnBa893U/view?usp=drive_link",//eco
-            2: "https://drive.google.com/file/d/1BB4LtrmzTFVHOIfQkSGFT-4N3b4hDAJR/view?usp=drive_link",//geo
+            2: "https://drive.google.com/file/d/1Tr0bI-ackO7v7hhhkGCL3guOy8RW9I4E/view?usp=drive_link",//geo
             3: "https://drive.google.com/file/d/1LVIuuByLyt_LWCOJ-1XapIi-MP5WR47f/view?usp=drive_link",//hp
             4: "https://drive.google.com/file/d/1dvchBknRod4SPDwjbPKgiqW1EE19ordY/view?usp=drive_link",//hu
             5: "https://drive.google.com/file/d/1xYnywOq8rM3gCvEtwH437iwYaqaP_UO7/view?usp=drive_link",//psi    
@@ -562,7 +562,7 @@ const driveLinks = {
         },
         "tomo-vi": {
             1: "https://drive.google.com/file/d/1SMikkQAHmS-XXmfrhGv_aIUX6_T5r7qL/view?usp=drive_link",//eco
-            2: "https://drive.google.com/file/d/17arFgBnATdpK1xhIkWKMQejy1B93AYHw/view?usp=drive_link",//geo
+            2: "https://drive.google.com/file/d/15WWAg-BPkm6e2xemO49q3pe6M_S1k1Sg/view?usp=drive_link",//geo
             3: "https://drive.google.com/file/d/1G6eZQOIPWupIqiKSU7P9DocrBwUia4TN/view?usp=drive_link",//hp
             4: "https://drive.google.com/file/d/1Hryln5u3cI3Hd2OuU8Y_04RrN7yTuT_U/view?usp=drive_link",//hu
             5: "https://drive.google.com/file/d/1Ubwvws2v-eiiZVX5zG_g3FCmo1srwbFr/view?usp=drive_link",//psi    
