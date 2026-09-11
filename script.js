@@ -895,12 +895,10 @@ const gradeTomos = {
     "3ro":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
     "4to":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
     "5to":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
-    "5topre": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
-               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"],
+    "5topre": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
     "5tosm":  ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
-               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"],
-    "5touni": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
-               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"]
+               "tomo-vii", "tomo-viii", "intensivo-i"],
+    "5touni": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"]
 };
 
 const grades = [
