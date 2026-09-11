@@ -889,6 +889,20 @@ const areaNames = {
     matematica: "Matemática"
 };
 
+const gradeTomos = {
+    "1ro":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
+    "2do":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
+    "3ro":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
+    "4to":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
+    "5to":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
+    "5topre": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
+               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"],
+    "5tosm":  ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
+               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"],
+    "5touni": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
+               "tomo-vii", "tomo-viii", "intensivo-i", "intensivo-ii", "intensivo-iii"]
+};
+
 const grades = [
     { id: "1ro", name: "1ro Secundaria", icon: "fas fa-star" },
     { id: "2do", name: "2do Secundaria", icon: "fas fa-star" },
@@ -914,6 +928,8 @@ const tomos = [
     { id: "intensivo-ii", name: "Intensivo II", icon: "fas fa-fire" },
     { id: "intensivo-iii", name: "Intensivo III", icon: "fas fa-fire" }
 ];
+
+
 
 // Estado actual
 let currentGrade = null;
@@ -944,31 +960,36 @@ function generateGradeButtons() {
     });
 }
 
-// Generar botones de tomos
+// Generar botones de tomos según lo configurado para cada grado
 function generateTomoButtons() {
     tomoButtonsContainer.innerHTML = '';
 
     if (!currentGrade) return;
 
-    // Mostrar todos los tomos e intensivos disponibles en la lista general
-    tomos.forEach(tomo => {
+    // Obtener los IDs de tomos habilitados para este grado
+    const tomosHabilitados = gradeTomos[currentGrade] || [];
+
+    // Si no hay tomos configurados, ocultar el selector
+    if (tomosHabilitados.length === 0) {
+        tomoSelectorDiv.style.display = 'none';
+        return;
+    }
+
+    // Filtrar la lista global de tomos por los habilitados para este grado
+    const tomosDisponibles = tomos.filter(t => tomosHabilitados.includes(t.id));
+
+    tomosDisponibles.forEach(tomo => {
         const btn = document.createElement('button');
-
-        btn.className = `tomo-btn ${
-            currentTomo === tomo.id ? 'active' : ''
-        }`;
-
+        btn.className = `tomo-btn ${currentTomo === tomo.id ? 'active' : ''}`;
         btn.innerHTML = `
             <i class="${tomo.icon}"></i>
             <span>${tomo.name}</span>
         `;
-
         btn.onclick = () => {
             currentTomo = tomo.id;
             generateTomoButtons();
             renderCourses();
         };
-
         tomoButtonsContainer.appendChild(btn);
     });
 }
