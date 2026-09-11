@@ -800,6 +800,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1xiKymm1-AMvse38rNcpup5EOi51uTtVp/view?usp=drive_link",//geom
             19: "https://drive.google.com/file/d/1UC1g_O6IMltGBVAUP3m3PDo9kyKEDFw9/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1F89mnAaEIo-A8KV9uEElo9xdy7ZHlClK/view?usp=drive_link"//trig
+        },
+        "intensivo-i": {
+            1: "https://drive.google.com/file/d/1ehPCu5xrCGzJ_dkeyC-Myw6Vs8dA4iMv/view?usp=drive_link",//Economia
+            2: "https://drive.google.com/file/d/1BNreEeK1JfPQUfe62ZohIdw11XNqxBUM/view?usp=drive_link",//geografia
+            3: "https://drive.google.com/file/d/1uT1tDiYqdapE_Dgcbx8un4tuQ1RE3K6_/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1ojDPQ4FrfNmpI4a8AEpAUZP1JRMaSFId/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1eDbyjG_Vg8YcuVdXrmM12rPMACnK1U-l/view?usp=drive_link",//psicologia
+            8: "https://drive.google.com/file/d/1t7tf37CUvEOAfJaYZxkZONRKU6myQFbP/view?usp=drive_link",//lenguaje
+            9: "https://drive.google.com/file/d/13iLkjMgy3S8TiUAiL0ibCAYGW3ERFUH_/view?usp=drive_link",//literatura
+            10: "https://drive.google.com/file/d/1wGK7na99OIE_WAEY7ZCXI7hk5um_ljw-/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/11hmyuU7yZ2Kx4pyVSJrNL4eFAa3Srof8/view?usp=drive_link",//biologia
+            14: "https://drive.google.com/file/d/1vYN5r-udWnlvxpIPMpOE3yLjpAALnOPk/view?usp=drive_link",//fisica
+            15: "https://drive.google.com/file/d/10pGiaMpAqKdOXM9NN88VJvChYwKUMkZE/view?usp=drive_link",//quimica
+            16: "https://drive.google.com/file/d/1VIlPGRAkT1HCLRqbkyjZKOC2nTBi_Np5/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1uS1YPq2Bkqs_zMz2Tw3egCc_UiM635pZ/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1Dfv011FGaZn4KjWe0FqZx2NXqCgyoE5i/view?usp=drive_link",//geom
+            19: "https://drive.google.com/file/d/1dD23Wyd_pAReRpbwrHP-CeKzSZWIHaiX/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1C3IgKNixe5NsAGyqprdSL9fPMkEoxjcj/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOUNI (5to UNI) ==========
