@@ -817,7 +817,7 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1uS1YPq2Bkqs_zMz2Tw3egCc_UiM635pZ/view?usp=drive_link",//arit
             18: "https://drive.google.com/file/d/1Dfv011FGaZn4KjWe0FqZx2NXqCgyoE5i/view?usp=drive_link",//geom
             19: "https://drive.google.com/file/d/1dD23Wyd_pAReRpbwrHP-CeKzSZWIHaiX/view?usp=drive_link",//rm
-            20: "https://drive.google.com/file/d/1C3IgKNixe5NsAGyqprdSL9fPMkEoxjcj/view?usp=drive_link"//trig
+            20: "https://drive.google.com/file/d/13-h2n91U7L_2kd-K-WXcKour-Wtjqj1p/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOUNI (5to UNI) ==========
