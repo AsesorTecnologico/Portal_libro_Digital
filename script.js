@@ -782,6 +782,24 @@ const driveLinks = {
             18: "https://drive.google.com/file/d/1U14RppnB9fA6xwAI1EnXftW_caNRBCE_/view?usp=drive_link",//gmt
             19: "https://drive.google.com/file/d/1vft7MmioVT74uKTxoguHnbuPjj0jXWrl/view?usp=drive_link",//rm
             20: "https://drive.google.com/file/d/1ZotaS7bPaaPo9JCyBNwjSgaNFt6G_THI/view?usp=drive_link"//trig
+        },
+        "tomo-vii": {
+            1: "https://drive.google.com/file/d/1sqsJNF7jQm85zHiSpnMupib3UmV9q2rQ/view?usp=drive_link",//eco
+            2: "https://drive.google.com/file/d/1yojx1fEfRWsJf_QLXbidyrhhLsV6NfcN/view?usp=drive_link",//geo
+            3: "https://drive.google.com/file/d/1dKaWIUDlSJ5i7VqSMnZZ_h8YCUAnYoMR/view?usp=drive_link",//hp
+            4: "https://drive.google.com/file/d/1i03j0t3LJ1drULiiNyEy0zYjEuytYl_9/view?usp=drive_link",//hu
+            5: "https://drive.google.com/file/d/1vCaY9HPHq9omj4j08yvEvpfIVmre-ygN/view?usp=drive_link",//psi    
+            8: "https://drive.google.com/file/d/1bjUikLAlCq7fan168_Pnsw21xkJLGeG0/view?usp=drive_link",//len
+            9: "https://drive.google.com/file/d/17HEH6E3Ndxs9lowoXOPIAuJFFN3jqX5a/view?usp=drive_link",//lit
+            10: "https://drive.google.com/file/d/1-593t29qMbNT_X2kleNDDi-4B0i0ZnaM/view?usp=drive_link",//rv
+            13: "https://drive.google.com/file/d/11AJyK6PrUYKU8B_TB1JL-rK1RCxv1SIz/view?usp=drive_link",//bio
+            14: "https://drive.google.com/file/d/1HlW35CdGOja39qHTTcUBlRmh09UTQu8E/view?usp=drive_link",//fis
+            15: "https://drive.google.com/file/d/1yo5L1KMy4G-lYQWaQEfql7t5kAKBiQlR/view?usp=drive_link",//qui
+            16: "https://drive.google.com/file/d/12P0oJopFdMJYeJAeahMyDuhpkJeS834W/view?usp=drive_link",//alg
+            17: "https://drive.google.com/file/d/1T2v3GqFgLu18jOc-hzpiGaDlJk-OcjNf/view?usp=drive_link",//arit
+            18: "https://drive.google.com/file/d/1nHbhrs6ZQfDL9mb01aIIXAxm6Zu70xcM/view?usp=drive_link",//gmt
+            19: "https://drive.google.com/file/d/1k08wWBVPD98urRwv-DycxcVa5edJNQuH/view?usp=drive_link",//rm
+            20: "https://drive.google.com/file/d/1poK1yrjc5Ctvd65lRVSgxindkFgGja5v/view?usp=drive_link"//trig
         }
     },
     // ========== 5TOSM (5to San Marcos) ==========
@@ -962,6 +980,14 @@ const driveLinks = {
             17: "https://drive.google.com/file/d/1zUdb_obbVrE3yiDyMymXiAlnxPCCkTJE/view?usp=drive_link",//ARIT
             18: "https://drive.google.com/file/d/1ClIozcjzNMtkpekaON5ycEiQm6C3xu7P/view?usp=drive_link",//GMT
             20: "https://drive.google.com/file/d/1b6k3dr3U68FR2aYW0_ZmYlyYMP2kmUaA/view?usp=drive_link"//TRIG
+        },
+        "tomo-vii": {
+            14: "https://drive.google.com/file/d/1eTDnXWgfOapB-pxTDfiI13hKf37ZQeVQ/view?usp=drive_link",//FIS
+            15: "https://drive.google.com/file/d/1Kz26eDDM7jjIMHK2LMn6VnGu-XBS2zgQ/view?usp=drive_link",//QUI
+            16: "https://drive.google.com/file/d/1j1aWWacUZZt7YImRE8v-BjylzwJ4mdX2/view?usp=drive_link",//ALG
+            17: "https://drive.google.com/file/d/1jNcfhQ4Tte6v0SsA23XNB1x2lGDql1th/view?usp=drive_link",//ARIT
+            18: "https://drive.google.com/file/d/1h4MvmD7KcMVguER52RmVHbC4qIgcoRlC/view?usp=drive_link",//GMT
+            20: "https://drive.google.com/file/d/1E0tA_habHzthsahlxOkMGepJk0MSa88Y/view?usp=drive_link"//TRIG
         }
     }
 };
