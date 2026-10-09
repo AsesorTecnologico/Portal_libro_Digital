@@ -1052,7 +1052,7 @@ const gradeTomos = {
     "5to":    ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
     "5topre": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"],
     "5tosm":  ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi",
-              "intensivo-i"],
+              "intensivo-i", "intensivo-ii"],
     "5touni": ["tomo-i", "tomo-ii", "tomo-iii", "tomo-iv", "tomo-v", "tomo-vi"]
 };
 
